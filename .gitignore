@@ -1,0 +1,16 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# MLflow (experimentos locales, no se versionan)
+mlruns/
+mlartifacts/
+
+# Sistema
+.DS_Store
+
+# Editor
+.vscode/
